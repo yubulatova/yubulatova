@@ -19,10 +19,9 @@
   <a href="https://t.me/femmuee" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
  </a>
-  <a href="mailto:yuli4.bulatova@yandex.ru">
+  <a href="mailto:your-login@yandex.ru?subject=Вопрос по поводу сотрудничества&body=Здравствуйте! Я заинтересовался вашим профилем на GitHub.">
     <img src="https://img.shields.io/badge/Yandex_Mail-FC3F1D?style=for-the-badge&logo=yandex&logoColor=white" alt="Yandex Mail"/>
   </a>
-
 
 
 **🎯 Что сейчас?**
